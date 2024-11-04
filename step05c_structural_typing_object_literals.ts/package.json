@@ -1,0 +1,14 @@
+{
+  "name": "step05c_structural_typing_object_literals.ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
